@@ -2,34 +2,42 @@
 
 
 
-# [Project Name] 🎯
+# [Banana Ripeness Detector] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Basic Details The Banana Ripeness Detector is a computer vision-based application designed to estimate the ripeness of a banana from an uploaded image.
+
+### Team Name: [banana]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [shibli] - [scms]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The system analyzes the color characteristics of the banana using image processing techniques. Since the color of a banana changes from green to yellow and eventually brown during ripening, these color changes can be used to estimate its maturity]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The system analyzes the color characteristics of the banana using image processing techniques. Since the color of a banana changes from green to yellow and eventually brown during ripening, these color changes can be used to estimate its maturity.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Determining the ripeness of a banana is normally done manually by looking at its color and appearance.
+
+However, manual assessment can be:
+
+Subjective
+Inconsistent
+Dependent on lighting and human observation
+Difficult to quantify precisely
+
+There is therefore an opportunity to develop a simple computer vision system that can analyze a banana image and provide a numerical estimate of its ripeness.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Python]
+- [Streamlit]
+- [OpenCV]
+- [Visual Studio Code]
 
 For Hardware:
 - [List main components]
