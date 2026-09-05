@@ -56,14 +56,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1881" height="885" alt="Screenshot 2026-09-05 234631" src="https://github.com/user-attachments/assets/d8273410-e93d-4795-839f-55f08677318f" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1912" height="962" alt="Screenshot 2026-09-05 234605" src="https://github.com/user-attachments/assets/b6e39340-9680-4165-a627-306b78773d2d" />
+]
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1896" height="887" alt="image" src="https://github.com/user-attachments/assets/9d8d88ed-e02f-4758-b3c5-f9c876710426" />
+]
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
