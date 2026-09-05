@@ -45,15 +45,33 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software: Module 1 — Image Upload
+Module 2 — Image Preprocessing
+Module 3 — Color Detection
+Module 4 — Ripeness Calculation
+Module 5 — Classification
+
+The score is converted into a meaningful category.
+
+Score	Classification
+0–30%	🟢 Unripe
+30–55%	🟡 Becoming Ripe
+55–80%	🍌 Perfectly Ripe
+80–95%	🟤 Very Ripe
+95–100%	🚨 Extremely Ripe
+Module 6 — Result Display
 # Installation
-[commands]
+[banana-ripeness-detector/
+│
+├── app.py
+├── requirements.txt
+└── README.md]
 
 # Run
-[commands]
+[http://localhost:8501]
 
 ### Project Documentation
-For Software:
+Bananas undergo visible color changes during the ripening process. They generally change from green to yellow and eventually develop brown spots.
 
 # Screenshots (Add at least 3)
 <img width="1881" height="885" alt="Screenshot 2026-09-05 234631" src="https://github.com/user-attachments/assets/d8273410-e93d-4795-839f-55f08677318f" />
